@@ -1,0 +1,1 @@
+# GoldenCheetah-PowerDropFixer
